@@ -2426,7 +2426,7 @@
   "resolved" "https://registry.npmjs.org/neo-async/-/neo-async-2.6.2.tgz"
   "version" "2.6.2"
 
-"next-pwa@^5.5.4":
+"next-pwa@^5.5.5":
   "integrity" "sha512-EdheDzxr3V7piAeW2qAeH0uJW5iouSt7s/Fzz6xuvkmRPgbyqQeRY/3ZOWbhfgbPBuzGjdbBWzVurWJPH8bY5w=="
   "resolved" "https://registry.npmjs.org/next-pwa/-/next-pwa-5.5.5.tgz"
   "version" "5.5.5"
