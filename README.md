@@ -28,7 +28,9 @@ Some potential extensions:
 
 ## Getting Started
 
-First, install dependencies with:
+First install Node 16 and NPM.
+
+Then install dependencies with:
 
 ```bash
 npm i
